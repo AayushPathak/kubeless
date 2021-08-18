@@ -6,7 +6,7 @@ require (
 	github.com/Azure/go-autorest v8.0.0+incompatible // indirect
 	github.com/aws/aws-sdk-go v1.16.26
 	github.com/coreos/prometheus-operator v0.0.0-20171201110357-197eb012d973
-	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
+	github.com/golang-jwt/jwt/v4 v4.0.0 // indirect
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/google/gofuzz v0.0.0-20170612174753-24818f796faf // indirect

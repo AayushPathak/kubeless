@@ -1,4 +1,4 @@
-FROM bitnami/minideb:jessie
+FROM bitnami/minideb:stretch
 
 RUN install_packages python3 curl ca-certificates git
 RUN curl https://bootstrap.pypa.io/get-pip.py --output get-pip.py
